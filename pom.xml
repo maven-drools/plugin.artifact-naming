@@ -9,7 +9,7 @@
 
   <groupId>de.lightful.maven.drools.plugin</groupId>
   <artifactId>artifact-naming</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
 
   <name>Maven Drools Support :: Plugin :: Artifact Naming</name>
   <description>Definition of common artifact types, file extensions, goal and scope names for the Drools Maven Plugin</description>
