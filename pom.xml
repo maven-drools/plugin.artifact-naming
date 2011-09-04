@@ -13,6 +13,7 @@
   <version>0.1.0-SNAPSHOT</version>
 
   <name>Maven Drools Support :: Plugin :: Artifact Naming</name>
+  <description>Definition of common artifact types, file extensions, goal and scope names for the Drools Maven Plugin</description>
 
   <scm>
     <connection>scm:git:git@github.com:maven-drools/plugin.artifact-naming.git</connection>
